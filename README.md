@@ -30,5 +30,11 @@ userDAO and get() is implemented in userDAOImpl it takes the id which should be 
     DELETE : delete is same as EDIT
 
 <<<-----H2 DATABASE has been used----------->>>>
+ so run as mvn spring-boot:run 
 
+
+=======> 26-02-2018
+ 
+ 
+ 
 
