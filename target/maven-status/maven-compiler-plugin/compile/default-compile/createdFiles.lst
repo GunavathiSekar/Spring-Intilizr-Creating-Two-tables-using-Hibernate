@@ -1,0 +1,10 @@
+com\kgisl\controller\StudController.class
+com\kgisl\model\Student.class
+com\kgisl\controller\HomeController.class
+com\kgisl\dao\UserDAOImpl.class
+com\kgisl\dao\StudDAOImpl.class
+com\kgisl\config\SpringWebAppInitializer.class
+com\kgisl\config\ApplicationContextConfig.class
+com\kgisl\model\User.class
+com\kgisl\dao\UserDAO.class
+com\kgisl\dao\StudDAO.class
